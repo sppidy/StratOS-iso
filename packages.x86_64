@@ -38,6 +38,7 @@ git
 
 # GNOME-related packages
 # gnome
+mutter
 gdm
 gnome-backgrounds
 gnome-characters
